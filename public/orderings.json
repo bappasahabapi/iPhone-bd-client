@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "name": "IPhone 13",
+      "variant": "64GB/128GB/256GB",
+      "price": "Base-price: 1100 $ ",
+      "space": 100,
+      "img": "https://9to5mac.com/wp-content/uploads/sites/6/2021/09/iphone-13-pro-header-9to5mac.jpg?quality=82&strip=all&w=1600"
+    },
+    {
+      "id": 2,
+      "name": "IPhone 12",
+      "variant": "64GB/128GB/256GB",
+      "price": "Base-price: 1020 $ ",
+      "space": 80,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsHnJT_teCVghAMha8xw9e2ylXrIu1joXE9A&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "name": "IPhone 11 Pro",
+      "variant": "64GB/128GB/256GB",
+      "price": "Base-price: 1000 $ ",
+      "space": 90,
+      "img": "https://cdn.freebiesbug.com/wp-content/uploads/2020/01/free-iphone11-mockups-featured.jpg"
+    },
+    {
+      "id": 4,
+      "name": "IPhone 11",
+      "variant": "64GB/128GB/256GB",
+      "price": "Base-price: 900 $ ",
+      "space": 500,
+      "img": "https://images.unsplash.com/photo-1600541519467-937869997e34?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aXBob25lJTIwMTF8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+    },
+    {
+      "id": 5,
+      "name": "IPhone XS",
+      "variant": "64GB/128GB/256GB",
+      "price": "Base-price: 800 $ ",
+      "space": 124,
+      "img": "https://images.unsplash.com/photo-1592821266573-4c773cfc5507?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aXBob25lJTIweHN8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+    },
+    {
+      "id": 6,
+      "name": "IPhone X",
+      "variant": "64GB/128GB/256GB",
+      "price": "Base-price: 700 $ ",
+      "space": 300,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv24T2q57yb6cjQMaAIFTKga9el2bant0CRB_T4L8qFJcrfcZpeAaQKCkxc3Lip_-E3EI&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "name": "IPhone SE",
+      "variant": "64GB/128GB/256GB",
+      "price": "Base-price: 767 $ ",
+      "space": 300,
+      "img": "https://images.unsplash.com/photo-1544228865-7d73678c0f28?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGlwaG9uZSUyMHNlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+    },
+    {
+      "id": 8,
+      "name": "IPhone 8",
+      "variant": "64GB/128GB/256GB",
+      "price": "Base-price: 600 $ ",
+      "space": 300,
+      "img": "https://images.unsplash.com/photo-1598093428081-17f985046a5b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aXBob25lOHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+    },
+    {
+      "id": 9,
+      "name": "IPhone 6S",
+      "variant": "64GB/128GB/256GB",
+      "price": "Base-price: 500 $ ",
+      "space": 300,
+      "img": "https://images.unsplash.com/photo-1527455102718-437c64ea37ad?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aXBob25lJTIwNnMlMjBwbHVzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+    },
+    {
+      "id": 10,
+      "name": "IPhone 5",
+      "variant": "64GB/128GB/256GB",
+      "price": "Base-price: 500 $ ",
+      "space": 300,
+      "img": "https://www.extremetech.com/wp-content/uploads/2013/08/iphone-5s-black-champagne-grey.jpg"
+    },
+    {
+      "id": 11,
+      "name": "IPhone 12 pro",
+      "variant": "64GB/128GB/256GB",
+      "price": "Base-price: 500 $ ",
+      "space": 300,
+      "img": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_announce-iphone12pro_10132020_big.jpg.large.jpg"
+    },
+    {
+      "id": 12,
+      "name": "IPhone 7",
+      "variant": "64GB/128GB/256GB",
+      "price": "Base-price: 500 $ ",
+      "space": 300,
+      "img": "https://cdn1.vox-cdn.com/uploads/chorus_asset/file/7089383/vrg_1215_iphone_review_lead_vert_compressed.0.jpg"
+    }
+  ]

@@ -1,0 +1,8 @@
+.product-style {
+    transition: ease-out 0.5s;
+}
+.product-style:hover{
+    box-shadow: 10px 10px 15px rgb(94, 92, 92), -10px -10px 15px white;
+    transform: translateY(-20px);
+    background-color:rgb(235, 235, 235);
+}

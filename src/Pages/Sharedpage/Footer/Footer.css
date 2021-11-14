@@ -1,0 +1,28 @@
+.footer {
+  padding: 50px;
+  background: rgb(34, 34, 34);
+  color: white;
+
+  background-image: url("https://i.ytimg.com/vi/5bgWxMGnlvc/maxresdefault.jpg"),
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3));
+
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+.ankor {
+  text-decoration: none;
+  font-size: 20px;
+}
+.ankor:hover {
+  font-weight: 600;
+}
+.copy {
+  text-decoration: none;
+}
+.copy:hover {
+  font-weight: 600;
+  color: green;
+}

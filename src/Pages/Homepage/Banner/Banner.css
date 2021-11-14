@@ -1,0 +1,31 @@
+.banner {
+  height: 92vh;
+  width: 100%;
+  background-image: url("https://images.unsplash.com/photo-1476039863276-5b0ebbbc488f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aXBob25lJTIwYmFja3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"),
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8));
+
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+body {
+  overflow-x: hidden;
+}
+
+.title {
+  color: white;
+  font-size: 48px;
+  font-weight: 900;
+}
+.title-guide {
+  color: white;
+  font-size: 48px;
+  font-weight: 900;
+}
+.title-sm {
+  font-weight: 500;
+  font-size: 38px;
+  color: white;
+}

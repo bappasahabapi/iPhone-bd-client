@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1,
+        "img": "https://cdn.vox-cdn.com/thumbor/4PfsHb323wZlNi_BqSkwxkMm-hE=/0x0:2040x1360/1720x0/filters:focal(0x0:2040x1360):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21973509/vpavic_4243_20201017_0144.0.jpg",
+        "name": "APPLE IPHONE 12",
+        "specification": {
+            "Storage": "128GB/256GB/512GB",
+            "Battery": "3,687mAh",
+            "Camera": "112MP + 12MP + 12MP / 12MP"
+        },
+        "description": "Apple has released four different variations of the iPhone 12, more than it ever has at one time. Despite all of those choices, the traditional, regular model is still a good pick. The regular iPhone 12, which starts at around $830 for a 64GB model, is the best smartphone for most people.",
+        "price": "$830"
+    },
+    {
+        "id": 2,
+        "img": "https://cdn.vox-cdn.com/thumbor/8jUWCu0JH2vocbXTzIBoOdrsVRo=/0x0:2040x1360/1720x0/filters:focal(0x0:2040x1360):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22248903/vpavic_210119_4377_0153.jpg",
+        "name": "SAMSUNG GALAXY S21 ULTRA",
+        "specification": {
+            "Storage": "128GB/256GB",
+            "Battery": "5,000Ah",
+            "Camera": "108MP + 10MP + 10MP + 12MP/40MP"
+        },
+        "description": "If neither size nor price is a concern, the best Android phone you can buy right now is the Samsung Galaxy S21 Ultra. With a big 6.8-inch screen and the best cameras you can get on an Android phone, it’s the no-compromise pick. In some cases, its cameras can even best the iPhone 12 Pro Max.",
+        "price": "$830"
+    },
+    {
+        "id": 1,
+        "img": "https://cdn.vox-cdn.com/thumbor/4PfsHb323wZlNi_BqSkwxkMm-hE=/0x0:2040x1360/1720x0/filters:focal(0x0:2040x1360):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21973509/vpavic_4243_20201017_0144.0.jpg",
+        "name": "APPLE IPHONE 12",
+        "specification": {
+            "Storage": "128GB/256GB/512GB",
+            "Battery": "3,687mAh",
+            "Camera": "112MP + 12MP + 12MP / 12MP"
+        },
+        "description": "Apple has released four different variations of the iPhone 12, more than it ever has at one time. Despite all of those choices, the traditional, regular model is still a good pick. The regular iPhone 12, which starts at around $830 for a 64GB model, is the best smartphone for most people.",
+        "price": "$1,199.99,"
+    },
+    {
+        "id": 3,
+        "img": "https://cdn.vox-cdn.com/thumbor/6M0RjQlV56kl5GQYzPnO7iqXlLw=/0x0:2050x1367/1720x0/filters:focal(0x0:2050x1367):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22022582/bfarsace_201106_4269_002.0.jpg",
+        "name": "APPLE IPHONE 12 PRO MAX",
+        "specification": {
+            "Storage": "128GB/256GB/512GB",
+            "Battery": "3,687mAh",
+            "Camera": "112MP + 12MP + 12MP / 12MP"
+        },
+        "description": "The iPhone 12 Pro Max has the best camera system you can currently get on a smartphone. Its three rear cameras — standard wide, ultrawide, and telephoto — combine with Apple’s image processing to produce stunning images, even in poor lighting. If camera quality is your most important.",
+        "price": "$1,099"
+    },
+    {
+        "id": 4,
+        "img": "https://cdn.vox-cdn.com/thumbor/okOdvOKsxZmxHRG644VJ5fxjGSI=/0x0:2040x1360/1720x0/filters:focal(0x0:2040x1360):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21765222/vpavic_200807_4133_0116.0.jpg",
+        "name": "SAMSUNG GALAXY NOTE 20 ULTRA",
+        "specification": {
+            "Storage": "128GB",
+            "Battery": "4,000mAh",
+            "Camera": "12MP  + 64MP + 12MP +16MP / 10MP"
+        },
+        "description": "If you’re looking for the best phone to go from morning to night with heavy use and last through it all, Samsung’s top-of-the-line Galaxy Note 20 Ultra is the one to get. It has a massive 4,500mAh battery that keeps its enormous 6.9-inch screen going as long as you need it to.",
+        "price": "$930"
+    },
+    {
+        "id": 5,
+        "img": "https://cdn.vox-cdn.com/thumbor/ll_7Tm8VVW-K7p49gVq0hVvZFEI=/0x0:2040x1360/1720x0/filters:focal(0x0:2040x1360):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22388894/bfarsace_4481_20210317_0070_Edit.jpg",
+        "name": "ONEPLUS 9",
+        "specification": {
+            "Storage": "8GB/12GB",
+            "Battery": "4,500mAh",
+            "Camera": "48MP + 48MP + 8MP/16MP"
+        },
+        "description": "The OnePlus 9 is the step-down model from the OnePlus 9 Pro, which is itself an excellent phone. But you don’t give up too much by opting for the 9, and you save a ton of money. Like the 9 Pro, it offers great performance with a Snapdragon 888 processor, fast 65W wired charging.",
+        "price": "$900"
+    },
+    {
+        "id": 6,
+        "img": "https://cdn.vox-cdn.com/thumbor/Ah1zcCuXhuCaNCFe-zYqjxKkPv8=/0x0:2040x1360/1720x0/filters:focal(0x0:2040x1360):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22465667/ajohnson_20210419_4541_0005.jpg",
+        "name": " SAMSUNG GALAXY A52 5G",
+        "specification": {
+            "Storage": "256GB/512GB",
+            "Battery": "4,000mAh",
+            "Camera": "12MP + 12MP/ 13MP"
+        },
+        "description": "The Galaxy A52 5G is our current pick for the best Android phone under $500, but it’s also worth highlighting here for its combination of features usually reserved for premium devices and a reasonable price. You won’t get all the bells and whistles of the S21 series.",
+        "price": "$490"
+    },
+    {
+        "id": 7,
+        "img": "https://cdn.vox-cdn.com/thumbor/sSs4cRBD7KStKzLm5gUEjqdMc_8=/0x0:2040x1360/1720x0/filters:focal(0x0:2040x1360):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21691996/vpavic_200728_4113_0127.jpg",
+        "name": " GOOGLE PIXEL 4A",
+        "specification": {
+            "Storage": "128GB",
+            "Battery": "4000mAh",
+            "Camera": "16MP + 12MP / 8MP"
+        },
+        "description": "If you’re on a budget and prefer Android, then the Google Pixel 4A is the obvious choice. It doesn’t have the largest screen or the fastest processor, but it does have a clean version of Android that’s guaranteed to get software updates for at least three years. It only comes in one.",
+        "price": "$400"
+    },
+    {
+        "id": 8,
+        "img": "https://cdn.vox-cdn.com/thumbor/-AP-EAS0ACMM-gL38WxMPepBYgw=/0x0:2040x1528/1720x0/filters:focal(0x0:2040x1528):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21829980/Product_image_14.jpg",
+        "name": "SAMSUNG GALAXY Z FOLD 2",
+        "specification": {
+            "Storage": "256GB/512GB",
+            "Battery": "4,500mAh",
+            "Camera": "12MP + 12MP + 12MP/ 10MP"
+        },
+        "description": "Folding phones have been around for less than two years and have already seen their share of controversies. But if you are interested in buying one and are willing to pay the hefty price required, there’s really only one model worth considering: Samsung’s Galaxy Z Fold 2.",
+        "price": "$1800"
+    },
+    {
+        "id": 9,
+        "img": "https://cdn.mos.cms.futurecdn.net/YTK9voHmWVcnDqB9YkBW5j-970-80.jpg.webp",
+        "name": "Oppo Find X3 Pro",
+        "specification": {
+            "Storage": "256GB",
+            "Battery": "4000mAh",
+            "Camera": "50MP + 50MP + 13MP + 3MP/ 32MP"
+        },
+        "description": "Oppo made waves with its excellent Find X2 Pro, 2020's handset of the year for many. Fast forward to 2021, and the Find X3 Pro carries forward the premium, high-end positioning of its predecessor, but ditches the X2 Pro's heft in favour of a curvy, cornerless design. ",
+        "price": "$500"
+    },
+    {
+        "id": 10,
+        "img": "https://cdn.mos.cms.futurecdn.net/sWN5SNyaUozKVZ4FagZm77-970-80.png.webp",
+        "name": "Google Pixel 5",
+        "specification": {
+            "Storage": "128GB",
+            "Battery": "4000mAh",
+            "Camera": "16MP + 12MP / 8MP"
+        },
+        "description": "Power-wise, things are middling too, with a Snapdragon 765G processor, and 8GB of RAM. On paper, then, the Pixel 5 isn’t up there with the most powerful, feature-packed phone in the word, but its price fairly reflects that. ",
+        "price": "$810"
+    },
+    {
+        "id": 11,
+        "img": "https://cdn.mos.cms.futurecdn.net/XuHmhV992vG7hfrKGyqdh7-970-80.jpg.webp",
+        "name": "iPhone 12 and 12 Mini",
+        "specification": {
+            "Storage": " 64GB/128GB/256GB",
+            "Battery": "  2,815mAh",
+            "Camera": "  12MP+12MP / 12MP "
+        },
+        "description": "The iPhone 12 has a 6.1-inch display and has the same 5G support as Apple’s other new iPhones, along with very good (but not the absolute best) camera performance. The OLED screen is a joy to behold, and the MagSafe feature is an intriguing addition to Apple’s arsenal.",
+        "price": "$829"
+    },
+    {
+        "id": 12,
+        "img": "https://cdn.mos.cms.futurecdn.net/zLQ5Ea8j4XJXSxdTFnGjG9-970-80.jpg.webp",
+        "name": " Samsung Galaxy Note 20 Ultra",
+        "specification": {
+            "Storage": " 128GB/256GB/512GB",
+            "Battery": " 4,500mAh",
+            "Camera": " 108MP + 12MP + 12MP / 10MP "
+        },
+        "description": "The Note 20 Ultra is one of the best smartphones money can buy for creative people looking to scribble, draw, make notes and be productive on the move. Aside from its great camera setup and gorgeous large AMOLED display, its party trick – the removable S Pen stylus.",
+        "price": "$829"
+    }
+]

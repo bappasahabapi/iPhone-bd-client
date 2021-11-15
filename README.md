@@ -1,19 +1,39 @@
-# Getting Started with Create React App
+# iPhone-bd-shop(Fully responsive)
 
-Iphone-bd [Create React App](https://github.com/facebook/create-react-app).
+Live Site: [Iphone-bd App](https://iphone-bd.web.app/).
 
-## Available Scripts
+## In this project I use
 
-### `npm start`
+        - Firebase Authentation
+        - Gooogle Varification and Redirect Private Route
+        - React Router functionality
+        -Using Private Route  parts
+        - Using Context API
+        -Hosting in firebase
+        --.env file
+        --MongoDB as a Server
+        -- Hooks
+        --Context API
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Components
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+        --src:
+                --context
+                --hooks
+                --images
+        --pages:
+                --Dashboard
+                --Homepage
+                --Loginpage
+                --Orderpage
+                --NotFound
+                --Sharedpage
+                        --Header
+                        --Footer
 
-### `install react router-dom `
+## Used module in this project
 
-    $ npm install react-router-dom@5.3.0
-
-### `npm run build`
+        --Material UI
+        --React Router Dom
+        --React Hook
+        --MongoDB for server

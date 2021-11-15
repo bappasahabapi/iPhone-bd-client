@@ -32,7 +32,7 @@ const Service = (props) => {
                         {description}
                     </Typography>
                 </CardContent>
-                <button className="btn-warning fw-bold px-5 py-2 border-0 rounded-3 mb-4"> </button>
+                <button type="disable" className="btn-info fw-bold px-5 py-2 border-0 rounded-3 mb-4"> </button>
 
 
             </Card>

@@ -16,10 +16,8 @@ const Product = (props) => {
                     <p className="card-text">{description}</p>
                     <p className="card-text">Starts From: {price}</p>
 
-                    {/* Buy Now Button */}
-                    <Link to={`/placeorder/${_id}`}>
-                        <button className="btn btn-warning rounded px-5 ">Buy Now</button>
-                    </Link>
+
+
                 </div>
             </div>
         </div>

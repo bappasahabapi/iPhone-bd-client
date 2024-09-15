@@ -5,7 +5,8 @@ const Products = () => {
     const [products, setProducts] = useState([])
 
     useEffect(() => {
-        fetch('https://thawing-peak-18884.herokuapp.com/products')
+        // fetch('https://i-phone-bd-server.vercel.app/products')
+        fetch('https://i-phone-bd-server.vercel.app/products')
             .then(res => res.json())
             .then(data => setProducts(data.slice(0, 6)))
     }, [])

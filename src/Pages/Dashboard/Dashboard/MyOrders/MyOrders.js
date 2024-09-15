@@ -15,7 +15,7 @@ const MyOrders = () => {
 
 
     useEffect(() => {
-        const url = `https://thawing-peak-18884.herokuapp.com/orders?email=${user.email}`
+        const url = `https://i-phone-bd-server.vercel.app/orders?email=${user.email}`
         fetch(url, {
             headers: {
                 'authorization': `Bearer ${token}`

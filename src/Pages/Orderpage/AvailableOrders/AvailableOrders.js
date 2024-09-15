@@ -12,7 +12,7 @@ const AvailableOrders = ({ date }) => {
     const [orderings, setOrderings] = useState([])
 
     useEffect(() => {
-        fetch('https://thawing-peak-18884.herokuapp.com/iphones')
+        fetch('https://i-phone-bd-server.vercel.app/iphones')
             // fetch('./orderings.json')
             // fetch('https://aqueous-reef-70969.herokuapp.com/products')
             .then(res => res.json())

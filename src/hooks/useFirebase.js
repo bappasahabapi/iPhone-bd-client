@@ -111,7 +111,7 @@ const useFirebase = () => {
 
 
     useEffect(() => {
-        fetch(`https://thawing-peak-18884.herokuapp.com/users/${user.email}`)
+        fetch(`https://i-phone-bd-server.vercel.app/users/${user.email}`)
             .then(res => res.json())
             .then(data => setAdmin(data.admin))
     }, [user.email])
@@ -138,7 +138,7 @@ const useFirebase = () => {
 
     const saveUser = (email, displayName, method) => {
         const user = { email, displayName };
-        fetch('https://thawing-peak-18884.herokuapp.com/users', {
+        fetch('https://i-phone-bd-server.vercel.app/users', {
             method: method,
             headers: {
                 'content-type': 'application/json'

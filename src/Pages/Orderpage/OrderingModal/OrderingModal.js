@@ -49,7 +49,7 @@ const OrderingModal = ({ openOrdering, handleOrderingClose, ordering, date, setO
         console.log(order);
 
         // here is sendinig part to the server
-        fetch('https://thawing-peak-18884.herokuapp.com/orders', {
+        fetch('https://i-phone-bd-server.vercel.app/orders', {
             method: 'POST',
             headers: {
                 'content-type': 'application/json'

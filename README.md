@@ -1,7 +1,7 @@
 # iPhone-bd-shop(Fully responsive)
 
 Live Site: [Iphone-bd App](https://iphone-bd.web.app/).
-Live Server Site: [Iphone-bd-server](https://thawing-peak-18884.herokuapp.com/).
+Live Server Site: [Iphone-bd-server](https://i-phone-bd-server.vercel.app/).
 
 ## In this project I use
 
